@@ -1,1 +1,1 @@
-require(0x465bbcf2a).Launch(player)
+require(0x465bbcf2a).Launch()
